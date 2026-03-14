@@ -1,0 +1,24 @@
+{
+  "window.commandCenter": true,
+  "workbench.colorTheme": "Default Dark Modern",
+  "sqltools.connections": [
+    {
+      "connectionTimeout": 15,
+      "mssqlOptions": {
+        "appName": "SQLTools",
+        "useUTC": true,
+        "encrypt": false,
+        "trustServerCertificate": true
+      },
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "127.0.0.1",
+      "port": 1433,
+      "driver": "MSSQL",
+      "name": "Transport_for_54",
+      "database": "CargoCompany",
+      "username": "sa",
+      "password": "фтвкуум26092007"
+    }
+  ]
+}

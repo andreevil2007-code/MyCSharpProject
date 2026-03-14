@@ -1,0 +1,8 @@
+{
+  "version": "1.0",
+  "components": [
+    "Microsoft.VisualStudio.Component.Roslyn.Compiler",
+    "Microsoft.Component.NetFX.Native",
+    "Microsoft.VisualStudio.Workload.ManagedDesktop"
+  ]
+}
